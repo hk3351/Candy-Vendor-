@@ -1,1 +1,3 @@
-# Candy-Vendor-
+
+
+This code simulates a simple candy shop system using classes and functions in C++. It defines two classes: dispenserType for managing product details and cashRegister for handling cash transactions. The program allows customers to select items such as candy, chips, gum, or cookies and make purchases by depositing the required amount of money. If the deposited amount is sufficient, the transaction is completed, and the product is dispensed. Otherwise, the customer is prompted to deposit additional funds. The program continues to run until the customer decides to exit by selecting option 5. Overall, it provides a basic interactive system for buying items from a candy shop.
